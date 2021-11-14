@@ -1,0 +1,29 @@
+[info] Loading settings from plugins.sbt ...
+[info] Loading project definition from C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw10-UnBothered1\project
+[info] Loading settings from build.sbt ...
+CS478: hw10 (EECS Tester 0.4.3)
+Unbothered1
+Data source: hw10.tests (remote)
+Begin testing evalPolynomial at Thu Nov 01 05:57:56 EDT 2018
+....
+Passed 4/4 tests in 0.139 seconds.
+Begin testing segments at Thu Nov 01 05:57:57 EDT 2018
+.............
+Passed 13/13 tests in 0.014 seconds.
+Begin testing subsets at Thu Nov 01 05:57:57 EDT 2018
+......
+Passed 6/6 tests in 0.016 seconds.
+Begin testing intersperse at Thu Nov 01 05:57:57 EDT 2018
+....
+Passed 4/4 tests in 0.005 seconds.
+Begin testing permutations at Thu Nov 01 05:57:57 EDT 2018
+Test #1 *** FAILED ***
+  list = List(8)
+  Expected answer Set(List(8))
+  Received answer Set(List(), List(8))
+Test #2 *** FAILED ***
+  list = List(6, 5)
+  Expected answer Set(List(5, 6), List(6, 5))
+  Received answer Set(List(), List(5), List(5, 6), List(6), List(6, 5))
+XX
+Passed 0/4 tests in 0.027 seconds.
